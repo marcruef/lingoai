@@ -1,0 +1,58 @@
+{
+    "name": "sein",
+    "aktiv":
+    {
+    	"indikativ":
+    	{
+    	    "praesens":
+    	    {
+    		"singular":
+    		{
+		    "1": "bin",
+		    "2": "bist",
+		    "3": "ist"
+		},
+		"plural":
+		{
+		    "1": "sind",
+		    "2": "seid",
+		    "3": "sind"
+		}
+	    },
+	    "praeteritum":
+    	    {
+    		"singular":
+    		{
+		    "1": "war",
+		    "2": "warst",
+		    "3": "war"
+		},
+		"plural":
+		{
+		    "1": "waren",
+		    "2": "wart",
+		    "3": "waren"
+		}
+	    }
+	},
+	"konjunktiv":
+	{
+	    "konjunktivi":
+	    {
+    		"singular":
+    		{
+		    "1": "sei",
+		    "2": "seiest",
+		    "3": "sei"
+		},
+		"plural":
+		{
+		    "1": "seien",
+		    "2": "seiet",
+		    "3": "seien"
+		}
+	    }
+	}
+	
+    }
+}
